@@ -1,0 +1,11 @@
+#spring.jpa.hibernate.ddl-auto=none
+#spring.application.name=spring-data-magic
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  application:
+    name: spring-data-magic
+Server:
+  port: 8081
